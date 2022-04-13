@@ -24,7 +24,7 @@
 Hello, I'm a Front End Developer looking to be a fullstack status.:stuck_out_tongue_winking_eye:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Analysis and Development last semester..
+- 🎓 &nbsp; Formación en Análisis y Desarrollo de Sistemas.
 - 🌱 &nbsp; Focusing on the back end architecture and applying concepts learned on the front end.
 
 ## :balloon: Languages and Frameworks
