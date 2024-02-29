@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there! I'm Vanessa Lopes 👋👩‍💻 </h1>
-<h3 align="center">🚀 FrontEnd Developer | ReactJS + NextJS and ReactNative 🚀</h3>
+<h3 align="center">🚀 FullStack Developer 🚀</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vanessa-lopes-798077128/">
